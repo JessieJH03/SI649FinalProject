@@ -43,6 +43,7 @@ View the project here: [Boston Celtics Championship Analysis](https://raw.githac
 ## Data Sources
 - [2023-2024 NBA Player Stats](https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats)
 - [NBA API Library](https://github.com/swar/nba_api)
+- [Basketball Reference](https://www.basketball-reference.com/)
 
 ## Project Requirements
 This project was created as part of SI649 Data Visualization course at the University of Michigan, Fall 2024.
