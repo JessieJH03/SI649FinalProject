@@ -3,7 +3,7 @@
 This data journalism project analyzes the Boston Celtics' journey to their 18th NBA Championship in the 2023-24 season. Through interactive visualizations and data-driven storytelling, we explore the key factors that contributed to their historic success.
 
 ## Live Demo
-[View the project here: Boston Celtics Championship Analysis](https://raw.githack.com/JessieJH03/SI649FinalProject/refs/heads/main/Narrative_Viz_Project.html)
+View the project here: [Boston Celtics Championship Analysis](https://raw.githack.com/JessieJH03/SI649FinalProject/refs/heads/main/Narrative_Viz_Project.html)
 
 ## Features
 - Interactive map visualization of NBA team locations
